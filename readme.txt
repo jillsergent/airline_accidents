@@ -12,4 +12,6 @@ pip install matplotlib.pyplot
 
 pip install openpyxl
 
+*For full disclosure, I encountered an error when attempting to push my final commit that my remote contained work that my local did not. I had tried to add my readme then deleted it immediately before, so I can only assume that was the culprit. It took me a little bit to troubleshoot, I did a git pull on my remote repo to match it with my local, then pushed the repo again. That seems to have worked, although it put me over the official 11:59am cutoff. I understand that my project might be sugject to failing for not meeting the requirements in time. I thought it was important at least to ascertain what the problem was and solve it if I could. Thank you.
+
 
